@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-About 2 years ago, I found a passion for programming, and since then, I've been living and breathing web development. I have been focused on learning how to create modern, user friendly interfaces. I'm always eager to learn and am constantly finding new technologies I want to explore!
-
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [mattyard11@gmail.com](mailto:mattyard11@gmail.com)
 
